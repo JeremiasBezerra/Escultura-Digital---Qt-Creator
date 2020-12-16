@@ -12,3 +12,6 @@
 O projeto consiste em dois módulos: uma classe em C++ destinada à interpretação de um arquivo em formato de texto simples e geração das matrizes tridimensionais; e uma ferramenta visual para desenho, algo equivalente a um "paint" 3D.
 
 Os sistemas de escultura tridimensional prevêem alguns tipos de formas geométricas simples que poderão ser usadas pelo usuário para pintar e deverão ser implementadas no projeto.</br>
+
+# Exemplo de Figura
+![Imagem](https://github.com/JeremiasBezerra/Escultura_Digital-Qt_Creator/blob/main/Programa/Programa.png)
